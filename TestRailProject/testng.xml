@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TestRailAutomation Project">
+  <test  name="TestRail Testcases">
+    <classes>
+      <class name="com.testrail.testcases.LoginPageTest"/>
+      <class name="com.testrail.testcases.HomePageTest"/>
+      <class name="com.testrail.testcases.DashBoardPageTest"/>
+      <class name="com.testrail.testcases.OverviewPageTest"/>
+      <class name="com.testrail.testcases.AddTestCasePageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-22T03:19:53Z" name="TestRailAutomation Project" finished-at="2021-02-22T03:21:04Z" duration-ms="71255">
+    <groups>
+    </groups>
+    <test started-at="2021-02-22T03:19:53Z" name="TestRail Testcases" finished-at="2021-02-22T03:21:04Z" duration-ms="71255">
+      <class name="com.testrail.testcases.AddTestCasePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testrail.testcases.AddTestCasePageTest@490caf5f]" started-at="2021-02-22T03:20:12Z" name="setUp" finished-at="2021-02-22T03:20:22Z" duration-ms="9346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyTestCasePageTitle()[pri:1, instance:com.testrail.testcases.AddTestCasePageTest@490caf5f]" started-at="2021-02-22T03:20:22Z" name="VerifyTestCasePageTitle" finished-at="2021-02-22T03:20:22Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyTestCasePageTitle -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testrail.testcases.AddTestCasePageTest@490caf5f]" started-at="2021-02-22T03:20:53Z" name="setUp" finished-at="2021-02-22T03:20:58Z" duration-ms="4541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addNewTestCase()[pri:2, instance:com.testrail.testcases.AddTestCasePageTest@490caf5f]" started-at="2021-02-22T03:20:58Z" name="addNewTestCase" finished-at="2021-02-22T03:20:59Z" duration-ms="716" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewTestCase -->
+      </class> <!-- com.testrail.testcases.AddTestCasePageTest -->
+      <class name="com.testrail.testcases.DashBoardPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testrail.testcases.DashBoardPageTest@1205bd62]" started-at="2021-02-22T03:20:03Z" name="setUp" finished-at="2021-02-22T03:20:07Z" duration-ms="4505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="dashBoardTitleTest()[pri:1, instance:com.testrail.testcases.DashBoardPageTest@1205bd62]" started-at="2021-02-22T03:20:07Z" name="dashBoardTitleTest" finished-at="2021-02-22T03:20:07Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dashBoardTitleTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testrail.testcases.DashBoardPageTest@1205bd62]" started-at="2021-02-22T03:20:38Z" name="setUp" finished-at="2021-02-22T03:20:43Z" duration-ms="4971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickProjectLink()[pri:2, instance:com.testrail.testcases.DashBoardPageTest@1205bd62]" started-at="2021-02-22T03:20:43Z" name="clickProjectLink" finished-at="2021-02-22T03:20:43Z" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickProjectLink -->
+      </class> <!-- com.testrail.testcases.DashBoardPageTest -->
+      <class name="com.testrail.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testrail.testcases.HomePageTest@67b9b51a]" started-at="2021-02-22T03:19:57Z" name="setUp" finished-at="2021-02-22T03:20:02Z" duration-ms="5077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="homePageTitleTest()[pri:1, instance:com.testrail.testcases.HomePageTest@67b9b51a]" started-at="2021-02-22T03:20:02Z" name="homePageTitleTest" finished-at="2021-02-22T03:20:02Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testrail.testcases.HomePageTest@67b9b51a]" started-at="2021-02-22T03:20:02Z" name="tearDown" finished-at="2021-02-22T03:20:03Z" duration-ms="635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testrail.testcases.HomePageTest@67b9b51a]" started-at="2021-02-22T03:20:28Z" name="setUp" finished-at="2021-02-22T03:20:33Z" duration-ms="5171" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickAddProjectLink()[pri:2, instance:com.testrail.testcases.HomePageTest@67b9b51a]" started-at="2021-02-22T03:20:33Z" name="clickAddProjectLink" finished-at="2021-02-22T03:20:37Z" duration-ms="4250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickAddProjectLink -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testrail.testcases.HomePageTest@67b9b51a]" started-at="2021-02-22T03:20:37Z" name="tearDown" finished-at="2021-02-22T03:20:38Z" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testrail.testcases.HomePageTest@67b9b51a]" started-at="2021-02-22T03:20:59Z" name="setUp" finished-at="2021-02-22T03:21:03Z" duration-ms="4537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="clickDashboard()[pri:3, instance:com.testrail.testcases.HomePageTest@67b9b51a]" started-at="2021-02-22T03:21:03Z" name="clickDashboard" finished-at="2021-02-22T03:21:03Z" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickDashboard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testrail.testcases.HomePageTest@67b9b51a]" started-at="2021-02-22T03:21:03Z" name="tearDown" finished-at="2021-02-22T03:21:04Z" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testrail.testcases.HomePageTest -->
+      <class name="com.testrail.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testrail.testcases.LoginPageTest@616ac46a]" started-at="2021-02-22T03:19:53Z" name="setUp" finished-at="2021-02-22T03:19:57Z" duration-ms="3801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.testrail.testcases.LoginPageTest@616ac46a]" started-at="2021-02-22T03:19:57Z" name="loginPageTitleTest" finished-at="2021-02-22T03:19:57Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testrail.testcases.LoginPageTest@616ac46a]" started-at="2021-02-22T03:19:57Z" name="tearDown" finished-at="2021-02-22T03:19:57Z" duration-ms="633" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testrail.testcases.LoginPageTest@616ac46a]" started-at="2021-02-22T03:20:22Z" name="setUp" finished-at="2021-02-22T03:20:26Z" duration-ms="3703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginApp()[pri:2, instance:com.testrail.testcases.LoginPageTest@616ac46a]" started-at="2021-02-22T03:20:26Z" name="loginApp" finished-at="2021-02-22T03:20:27Z" duration-ms="1512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.testrail.testcases.LoginPageTest@616ac46a]" started-at="2021-02-22T03:20:27Z" name="tearDown" finished-at="2021-02-22T03:20:28Z" duration-ms="610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testrail.testcases.LoginPageTest -->
+      <class name="com.testrail.testcases.OverviewPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testrail.testcases.OverviewPageTest@7ef27d7f]" started-at="2021-02-22T03:20:07Z" name="setUp" finished-at="2021-02-22T03:20:12Z" duration-ms="4948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="OverviewTitleTest()[pri:1, instance:com.testrail.testcases.OverviewPageTest@7ef27d7f]" started-at="2021-02-22T03:20:12Z" name="OverviewTitleTest" finished-at="2021-02-22T03:20:12Z" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OverviewTitleTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.testrail.testcases.OverviewPageTest@7ef27d7f]" started-at="2021-02-22T03:20:43Z" name="setUp" finished-at="2021-02-22T03:20:53Z" duration-ms="9518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addTestCase()[pri:2, instance:com.testrail.testcases.OverviewPageTest@7ef27d7f]" started-at="2021-02-22T03:20:53Z" name="addTestCase" finished-at="2021-02-22T03:20:53Z" duration-ms="402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addTestCase -->
+      </class> <!-- com.testrail.testcases.OverviewPageTest -->
+    </test> <!-- TestRail Testcases -->
+  </suite> <!-- TestRailAutomation Project -->
+</testng-results>
